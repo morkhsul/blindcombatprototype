@@ -1,0 +1,9 @@
+node_modules/
+dist/
+build/
+### StartGame ###.bat
+game.db
+package.json
+package-lock.json
+push.txt
+Backups/
