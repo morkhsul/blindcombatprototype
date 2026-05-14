@@ -1,3 +1,0 @@
-DoF not working properly yet.
-
-People cant join yet. Need cloudflared and make game public.
