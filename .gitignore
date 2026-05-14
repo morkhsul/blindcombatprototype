@@ -5,5 +5,6 @@ build/
 game.db
 package.json
 package-lock.json
-push.txt
+push.bat
 Backups/
+.gitignore
