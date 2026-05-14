@@ -1,0 +1,21 @@
+{
+  "name": "clicker-arena",
+  "version": "1.0.0",
+  "description": "3D browser clicker arena",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "@colyseus/schema": "^3.0.61",
+    "bcryptjs": "^3.0.3",
+    "colyseus": "^0.16.5",
+    "colyseus.js": "^0.16.22",
+    "express": "^4.22.1",
+    "jsonwebtoken": "^9.0.3",
+    "postprocessing": "^6.39.1",
+    "socket.io": "^4.7.4",
+    "sql.js": "^1.14.1",
+    "uuid": "^9.0.1"
+  }
+}
